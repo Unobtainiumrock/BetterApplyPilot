@@ -1,5 +1,7 @@
 <!-- logo here -->
 
+> **📦 Monorepo note (2026-04-23):** This fork (`Unobtainiumrock/BetterApplyPilot`) is being consolidated into [`Unobtainiumrock/jobhunt`](https://github.com/Unobtainiumrock/jobhunt) at `apps/applypilot/` alongside the companion inbound-triage project and a shared `jobhunt_core` library. Full history is preserved via `git subtree`. The live Hetzner deploy still builds from this repo for now — new development happens in the monorepo until a cut-over ships.
+
 > **⚠️ ApplyPilot** is the original open-source project, created by [Pickle-Pixel](https://github.com/Pickle-Pixel) and first published on GitHub on **February 17, 2026**. We are **not affiliated** with applypilot.app, useapplypilot.com, or any other product using the "ApplyPilot" name. These sites are **not associated with this project** and may misrepresent what they offer. If you're looking for the autonomous, open-source job application agent — you're in the right place.
 
 # ApplyPilot
